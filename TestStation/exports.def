@@ -1,0 +1,3 @@
+LIBRARY TestStation
+EXPORTS
+	StationInject
